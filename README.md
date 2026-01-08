@@ -1,4 +1,4 @@
-<!-- # 🧠 Next Word Prediction System
+# 🧠 Next Word Prediction System
 
 A deep learning–based **Next Word Prediction System** built using **LSTM / BiLSTM**, **TensorFlow**, and **Streamlit**.  
 The application predicts the next word(s) given a sequence of text, generates full sentences, and provides an interactive web interface with Light/Dark mode.
@@ -36,9 +36,6 @@ next-word-prediction/
 ```
 ---
 
-
----
-
 ## 🧠 Model Details
 
 - **Architecture**: LSTM / Bidirectional LSTM  
@@ -74,6 +71,7 @@ source venv/bin/activate
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
+---
 
 ▶️ Run the Application
 streamlit run app.py
@@ -81,4 +79,6 @@ streamlit run app.py
 
 Then open your browser at:
 
-http://localhost:8501 -->
+http://localhost:8501
+
+---

@@ -50,8 +50,12 @@ next-word-prediction/
 
 ### 1️⃣ Clone the Repository
 bash
+
 git clone https://github.com/chandank013/nextWord-prediction-system.git
+
 cd nextWord-prediction-system
+
+---
 
 ### 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
@@ -63,10 +67,13 @@ Windows
 
 venv\Scripts\activate
 
+---
 
 Linux / macOS
 
 source venv/bin/activate
+
+---
 
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
@@ -74,7 +81,10 @@ pip install -r requirements.txt
 ▶️ Run the Application
 streamlit run app.py
 
+---
 
 Then open your browser at:
 
 http://localhost:8501
+
+---

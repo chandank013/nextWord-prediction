@@ -49,7 +49,7 @@ next-word-prediction/
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/chandank013/nextWord-prediction-system.git
 cd nextWord-prediction-system
 
@@ -71,8 +71,6 @@ source venv/bin/activate
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
----
-
 ▶️ Run the Application
 streamlit run app.py
 
@@ -80,5 +78,3 @@ streamlit run app.py
 Then open your browser at:
 
 http://localhost:8501
-
----
